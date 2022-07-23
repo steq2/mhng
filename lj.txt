@@ -1,0 +1,2 @@
+vmess://eyJhZGQiOiJnc2Z3dTc1Z2p3MTlsZi5oZXJva3VhcHAuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJhMGRkOTdjOS01NDc2LTRhMWEtOTc5NC1jMDdkZGY3Mjk4YjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+vmess://ws+tls:ef2f1218-3d81-a302-c6b0-9e0a495a5441-0@12full.fgnbwygac.ml:443/?host=12full.fgnbwygac.ml&path=/gqkuvws&allowInsecure=true&tlsServerName=12full.fgnbwygac.ml#vms-12
