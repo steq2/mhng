@@ -1,2 +1,0 @@
-vmess://ws+tls:d0c06d61-365b-aa9f-a301-483c3881a577-0@ovnfye.r1nhatzh3f.ga:443/?host=ovnfye.r1nhatzh3f.ga&path=/alonevws&tlsServerName=ovnfye.r1nhatzh3f.ga#VMESS33-2IP
-vmess://ws+tls:c7789a6d-2b19-402f-8b92-984b904f36d6-0@222.xwnuzyzsg.repl.co:443/?host=222.xwnuzyzsg.repl.co&path=/c7789a6d-2b19-402f-8b92-984b904f36d6-vmess&allowInsecure=true#vmess33
